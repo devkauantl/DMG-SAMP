@@ -13,7 +13,7 @@
 
 Simply install to your gta:
 ```bash
-Install the dl2.luac file and move it into the 'moonloader' folder of your gta.
+Install the dmg.luac file and move it into the 'moonloader' folder of your gta.
 ```
 
 ## Credits
