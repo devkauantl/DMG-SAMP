@@ -8,6 +8,13 @@
 
 > [!NOTE]  
 > To disable or enable dmg just use the /dmg command.
-> 
+
+## How to install
+
+Simply install to your gta:
+```bash
+Install the dl2.luac file and move it into the 'moonloader' folder of your gta.
+```
+
 ## Credits
 - Kauan T. (https://github.com/devkauantl): For making the script.
